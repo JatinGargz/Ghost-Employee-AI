@@ -85,8 +85,8 @@ src/
 
 ## 📸 Screenshots
 
-(Add project screenshots here)
-
+### Dashboard Preview
+![Dashboard](assets/dashboard.png)
 ---
 
 ## ⭐ Support
