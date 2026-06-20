@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Ghost Employee AI",
+  "description": "An AI-powered organizational intelligence platform to find experts, detect ghost employees, and analyze digital footprints.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
